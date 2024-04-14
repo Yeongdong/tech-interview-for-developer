@@ -13,51 +13,7 @@
 
 <br>
 
-<br>
-
-### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
-
-<br> 
-
-**Collaborator**
-
-| [<img src="https://avatars3.githubusercontent.com/u/34904741?s=460&u=c8b8b7954518e26abbcf5d29c69c5df0b5c53c1b&v=4" width="100">](https://github.com/gyoogle)| [<img src="https://avatars2.githubusercontent.com/u/46181475?s=460&u=16d868ed1e357e51e8ba9f6dbb77df53a8fbb945&v=4" width="100">](https://github.com/GimunLee) | [<img src="https://avatars2.githubusercontent.com/u/37679254?s=460&u=1a7ccc7bf9926d6ea1cc455d04dfb63e4ebceaec&v=4" width="100">](https://github.com/b2narae) |
-| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: |
-
-<br>
-
-**Commit convention rule** : 날짜-[주제]-내용-상태
-
-`ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete`
-
-<br>
-
-잘못된 내용은 [이슈](https://github.com/gyoogle/tech-interview-for-developer/issues)와 [PR](https://github.com/gyoogle/tech-interview-for-developer/pulls)로 알려주세요 💡
-
-<br>
-
-
-
-<center>🙏도움을 주신 분들🙏</center>
-
-<br>
-<br>
-
-<a href="https://github.com/gyoogle/tech-interview-for-developer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gyoogle/tech-interview-for-developer" />
-</a>
-
-<br>
-
-#### [💖후원하기💝](https://github.com/sponsors/gyoogle)
-
-<br>
-<br>
-
 ## ⏩ ⏩ ⏩  [웹 사이트에서 편하게 공부하세요! Click!](https://gyoogle.dev/)  ⏪ ⏪ ⏪
-
-<br>
-<br>
 
 <br>
 
@@ -216,20 +172,6 @@
 
 ## 📌 Language
 
-- ### C
-
-  - [[C] C언어 컴파일 과정](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bc%5D%20C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
-  - [[C] 구조체 메모리 크기 계산](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%20%EA%B3%84%EC%82%B0.md)
-  - [[C] 포인터(Pointer)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%ED%8F%AC%EC%9D%B8%ED%84%B0(Pointer).md>)
-  - [[C] 동적할당](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9.md)
-
-- ### C++
-
-  - [[C++] 얕은 복사 vs 깊은 복사](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BCpp%5D%20shallow%20copy%20vs%20deep%20copy.md)
-  - [[C++] 가상 함수(Virtual Function)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
-  - [[C++] 입출력 최적화하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8B%A4%ED%96%89%EC%86%8D%EB%8F%84%20%EC%A4%84%EC%9D%B4%EB%8A%94%20%EB%B2%95.md)
-  - [[C++] Vector Container](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20Vector%20Container.md)
-
 - ### Java
 
   - [[Java] Java 컴파일 과정](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
@@ -251,16 +193,6 @@
   - [[Java] Interend String in Java](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Interned%20String%20in%20JAVA.md)
   - [[Java] Composition](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98(Composition).md)
   
-- ### Javascript
-
-  - [[Javascript] ES2015+ 요약 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavascript%5D%20ES2015%2B%20%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC.md)
-  - [[Javascript] Object Prototype](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavasript%5D%20Object%20Prototype.md)
-  - [[Javascript] Closure](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavascript%5D%20Closure.md)
-
-- ### Python
-
-  - [[Python] 매크로 사용법](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BPython%5D%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
-
 <br>
 
 ## 📌 Web
@@ -307,26 +239,12 @@
   - [[Spring Data JPA] 더티 체킹(Dirty Checking)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Spring/%5BSpring%20Data%20JPA%5D%20%EB%8D%94%ED%8B%B0%20%EC%B2%B4%ED%82%B9%20(Dirty%20Checking).md)
   - [Spring Security - 인증 및 권한 부여](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Spring/Spring%20Security%20-%20Authentication%20and%20Authorization.md)
 
-- ##### Vue.js
-  
-  - [Vue.js 라이프사이클](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
-  - [Vue CLI + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
-  - [Vue.js + Firebase로 이메일 회원가입&로그인 구현하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue/Vue.js%20%2B%20Firebase%EB%A1%9C%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.md)
-  - [Vue.js + Firebase로 Facebook 로그인 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue/Vue.js%20%2B%20Firebase%EB%A1%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(facebook)%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
-  - [Nuxt.js란](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Nuxt.js.md>)
-  
-- ##### React
-  
-  - [React Fragment](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React/React%20Fragment.md)
-  - [React Hook](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React/React%20Hook.md)
-  - [React + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React/React%20%26%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
-  
+
 - ##### DevOps
 
   - [[AWS] Spring Boot 배포 스크립트 생성](https://github.com/gyoogle/tech-interview-for-developer/tree/master/Web/DevOps)
   - [[Travis CI] 프로젝트 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/DevOps/%5BTravis%20CI%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
   - [시스템 규모 확장](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/DevOps/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5.md)
-
 
 <br>
 
